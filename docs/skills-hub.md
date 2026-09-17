@@ -1,4 +1,4 @@
-![Ignite Skills Hub](img/skills-hub-hero.png)
+![Microsoft Ignite 2026](img/banner-ignite-26.png)
 
 # Skills Hub: Keep up the momentum
 

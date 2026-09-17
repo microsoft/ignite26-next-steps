@@ -4,8 +4,6 @@
 
 Explore labs, session repositories, and additional resources from Microsoft Ignite 2026 focused on amplifying your intelligence with Microsoft IQ.
 
-<img src="../img/microsoft-iq.png" alt="Microsoft IQ" width="100%" height="24" style="object-fit: cover; object-position: center;" />
-
 ## Session Repositories
 
 > 🚧 The Microsoft Ignite 2026 session catalog isn't live yet. This table will be populated with session repositories, presenters, and session pages once the catalog is available.

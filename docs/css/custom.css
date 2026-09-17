@@ -91,54 +91,6 @@ img {
   display: none;
 }
 
-/* ── Banner strips on topic pages ── */
-.md-typeset img[alt="Skills Hub"],
-.md-typeset img[alt="Copilot"],
-.md-typeset img[alt="Agent Platform"],
-.md-typeset img[alt="Microsoft IQ"],
-.md-typeset img[alt="Security"],
-.md-typeset img[alt="Windows"],
-.md-typeset img[alt="Agentic Business Applications"],
-.md-typeset img[alt="Cloud & AI Platform"],
-.md-typeset img[alt="Data & AI Platform"],
-.md-typeset img[alt="Microsoft AI Cloud Partner Program"] {
-  display: block;
-  width: 100%;
-  height: 24px;
-  object-fit: cover;
-  object-position: center;
-}
-
-/* Ensure glightbox wrappers don't constrain topic strip banners. */
-.md-typeset a.glightbox[href$="copilot.png"],
-.md-typeset a.glightbox[href$="agent-platform.png"],
-.md-typeset a.glightbox[href$="microsoft-iq.png"],
-.md-typeset a.glightbox[href$="security.png"],
-.md-typeset a.glightbox[href$="windows.png"],
-.md-typeset a.glightbox[href$="agentic-business-applications.png"],
-.md-typeset a.glightbox[href$="cloud-ai-platform.png"],
-.md-typeset a.glightbox[href$="data-ai-platform.png"],
-.md-typeset a.glightbox[href$="microsoft-ai-cloud-partner-program.png"] {
-  display: block;
-  width: 100%;
-}
-
-.md-typeset a.glightbox[href$="copilot.png"] img,
-.md-typeset a.glightbox[href$="agent-platform.png"] img,
-.md-typeset a.glightbox[href$="microsoft-iq.png"] img,
-.md-typeset a.glightbox[href$="security.png"] img,
-.md-typeset a.glightbox[href$="windows.png"] img,
-.md-typeset a.glightbox[href$="agentic-business-applications.png"] img,
-.md-typeset a.glightbox[href$="cloud-ai-platform.png"] img,
-.md-typeset a.glightbox[href$="data-ai-platform.png"] img,
-.md-typeset a.glightbox[href$="microsoft-ai-cloud-partner-program.png"] img {
-  display: block;
-  width: 100%;
-  height: 24px;
-  object-fit: cover;
-  object-position: center;
-}
-
 /* ── Tables ── */
 .md-typeset__scrollwrap {
   overflow-x: visible;

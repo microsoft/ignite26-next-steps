@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/hero-ignite-26.png" alt="Microsoft Ignite 2026" width="1200"/>
+<img src="img/banner-ignite-26.png" alt="Microsoft Ignite 2026" width="680"/>
 </p>
 
 # Microsoft Ignite 2026 — Next Steps
