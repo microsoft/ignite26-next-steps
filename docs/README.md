@@ -1,10 +1,10 @@
-# Docs
+# /docs
 
-<!-- IGNITE TEMPLATE PLACEHOLDER: remove this folder when the session needs no additional documentation. -->
+This folder contains the MkDocs source content for the Microsoft Ignite 2026 Next Steps site. These markdown files are served via GitHub Pages at https://microsoft.github.io/ignite26-next-steps/.
 
-Use this folder for supporting documentation such as reference material and
-architecture/context.
+## Tips
 
-If this repository intentionally uses MkDocs or another docs-site pattern,
-attendee instructions can remain here. Link the attendee entry point clearly
-from the root README.
+- Use numbered prefixes for ordering: `01-setup/`, `02-exercise/`, `03-wrap-up/`
+- Each subfolder can have its own `README.md` or `index.md`
+- Keep images in an `assets/` subfolder if needed
+- If your session doesn't have documentation beyond the README, feel free to remove this folder

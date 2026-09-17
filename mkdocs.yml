@@ -1,0 +1,82 @@
+site_name: Microsoft Ignite 2026 - Next Steps
+site_url: https://microsoft.github.io/ignite26-next-steps/
+site_author: Microsoft
+site_description: Continue your learning journey after Microsoft Ignite 2026.
+
+# Repository
+repo_name: Microsoft Ignite 2026 - Next Steps
+repo_url: https://github.com/microsoft/ignite26-next-steps
+
+# Copyright
+copyright: >
+  Copyright &copy; 2026 - present Microsoft
+
+# Exclude top-level README to avoid conflict with docs/index.md
+exclude_docs: |
+  README.md
+
+nav:
+  - Home: index.md
+  - Session Topics:
+    - Copilot: copilot.md
+    - Agent Platform: agent-platform.md
+    - Microsoft IQ: microsoft-iq.md
+    - Security: security.md
+    - Windows: windows.md
+    - Agentic Business Applications: agentic-business-applications.md
+    - Cloud & AI Platform: cloud-ai-platform.md
+    - Data & AI Platform: data-ai-platform.md
+    - Microsoft AI Cloud Partner Program: microsoft-ai-cloud-partner-program.md
+  - Skilling & Resources:
+    - Skills Hub: skills-hub.md
+  - Microsoft Marketplace: microsoft-marketplace.md
+  - MVP: mvp.md
+  - Microsoft Ignite Info: microsoft-ignite-info.md
+
+plugins:
+  - glightbox
+  - search
+
+theme:
+  name: material
+  features:
+    - navigation.footer
+    - content.code.copy
+    - navigation.tabs.sticky
+    - content.tabs.link
+    - navigation.expand
+
+  font: false
+
+  palette:
+    - scheme: default
+      primary: black
+      toggle:
+        icon: material/brightness-2
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 2
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - css/custom.css

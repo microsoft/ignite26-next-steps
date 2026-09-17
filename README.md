@@ -1,123 +1,52 @@
-## Before you're done
-
-This repo has been created for your Microsoft Ignite 2026 session. Here's how to get it ready.
-
-**Easiest path — use the agent (recommended):**
-
-- Open GitHub Copilot Chat and say `help me initialize repo`. The agent will walk you through getting the README populated.
-- When you're ready to publish, say `help me finalize repo`. The agent will clean up unused folders, validate everything, and remove this "Before you're done" section and other extra stuff that attendees don't need to see.
-- Curious how it works? Read the [agent workflow](.github/AGENT-WORKFLOW.md).
-
-**Doing it manually?**
-
-Fill in the sections below yourself, then:
-
-- Delete any placeholder folders you don't need (`data/`, `infra/`, etc.)
-- Delete this "Before you're done" section
-- Delete `.github/agents/`, `.github/tests/`, `.github/copilot-instructions.md`, and `.github/AGENT-WORKFLOW.md` — these are template tooling, not part of your published repo
-
-**Folder conventions:**
-
-- Attendee step-by-step guidance goes in `instructions/`. If you use MkDocs or a docs site instead, put it in `docs/` and link to it from this README.
-- Reference material and background reading go in `docs/`.
-- You can add a `.devcontainer/` folder if needed.
-
----
-
-<a name="start-building"></a>
-
 <p align="center">
-<img src="img/banner-ignite-26.png" alt="Microsoft Ignite 2026" width="100%"/>
+<img src="docs/img/banner-ignite-26.png" alt="Microsoft Ignite 2026" width="1200"/>
 </p>
 
-# [Microsoft Ignite 2026](https://ignite.microsoft.com)
+# [Microsoft Ignite 2026](https://ignite.microsoft.com) — Next Steps
 
-## 🔥BRKXXX: SESSION TITLE
+Microsoft Ignite brings AI into the flow of human ambition — from agents and platforms to security and data. Engage with session-specific content in your environment with interactive repos to further your learning for your own purposes. Click on a topic to see the repos for each session.
 
-### Session description
+👉 **[Browse the full site](https://microsoft.github.io/ignite26-next-steps/)** for the best experience with navigation across all topics.
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+> 🚧 The Microsoft Ignite 2026 session catalog isn't live yet. Topic pages currently contain placeholder content and will be updated with real session repositories as they become available.
 
-### 🚀 Getting started
+## Session Topics
 
-#### In a guided session
+- **[Copilot](docs/copilot.md)** — AI in the flow of human ambition — bringing Copilot into everyday work.
+- **[Agent Platform](docs/agent-platform.md)** — Ubiquitous innovation — building, deploying, and scaling agents everywhere.
+- **[Microsoft IQ](docs/microsoft-iq.md)** — Amplify your intelligence with Microsoft IQ.
+- **[Security](docs/security.md)** — Establishing a trusted and secure platform for AI.
+- **[Windows](docs/windows.md)** — AI-ready productivity and security for every employee.
+- **[Agentic Business Applications](docs/agentic-business-applications.md)** — Agentifying your business processes.
+- **[Cloud & AI Platform](docs/cloud-ai-platform.md)** — Modernize with confidence on the cloud and AI platform.
+- **[Data & AI Platform](docs/data-ai-platform.md)** — Build a unified, governed data and AI estate.
+- **[Microsoft AI Cloud Partner Program](docs/microsoft-ai-cloud-partner-program.md)** — Resources and enablement for partners building on Microsoft AI.
 
-If you're following along during a live session:
+## Skilling & Resources
 
-1. Step 1
-2. Step 2
-3. Open [`instructions/`](instructions/README.md) when this session includes
-   attendee step-by-step guidance
+- [Skills Hub](docs/skills-hub.md) — Worldwide skilling programs and learning paths
+- [Microsoft Marketplace](docs/microsoft-marketplace.md) — Microsoft Marketplace resources and extensions
+- [MVP](docs/mvp.md) — Microsoft MVP community resources
+- [Microsoft Ignite Info](docs/microsoft-ignite-info.md) — Microsoft Ignite event information and registration
 
-#### On your own
+## Contributing
 
-If you're learning at your own pace:
+This project welcomes contributions and suggestions. Most contributions require you to agree to a
+Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
+the rights to use your contribution. For details, visit [Contributor License Agreements](https://cla.opensource.microsoft.com).
 
-1. Clone this repository
-2. Set up your environment
-3. Follow the session guidance in [`instructions/`](instructions/README.md), or
-   use the linked docs-site entry point when this repository uses that pattern
+When you submit a pull request, a CLA bot will automatically determine whether you need to provide
+a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
+provided by the bot. You will only need to do this once across all repos using our CLA.
 
-### 🎯 Learning outcomes
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
+contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-By the end of this session, you will be able to:
+## Trademarks
 
-- Outcome 1
-- Outcome 2
-- Outcome 3
-
-### 💻 Technologies used
-
-- Technology 1
-- Technology 2
-- Technology 3
-
-### 📚 Continue your learning
-
-Pick your next step based on your learning style:
-
-| Resource | What you'll get |
-|----------|-----------------|
-| **[Ignite 2026 Next Steps](https://aka.ms/ignite26-next-steps)** | Additional session repos and materials from Microsoft Ignite 2026 |
-| **[Microsoft AI Skills Navigator](https://aka.ms/ignite26-asn)** | Discover AI skills, learning paths, and resources for your next step |
-| **[Microsoft Learn](https://aka.ms/ignite26-learn)** | Official documentation and guided learning paths on these topics |
-| **[Microsoft Foundry Community](https://aka.ms/MicrosoftFoundryDiscord-Ignite26)** | Connect with other learners and experts in our Discord community |
-
-### 🌟 Microsoft Learn MCP Server
-
-<!-- Remove this section if the Microsoft Learn MCP Server is not relevant to the session. -->
-
-The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's official documentation — grounded, up-to-date answers about the topics in this session.
-
-**GitHub Copilot CLI** — Install with:
-
-```shell
-copilot plugin install microsoftdocs/mcp
-```
-
-**VS Code** — One-click install:  
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Learn_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
-
-For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp).
-
-### 👥 Content owners
-
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
-<table>
-<tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
-    </td>
-</tr></table>
-
-### ⚖️ Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general). Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
+trademarks or logos is subject to and must follow
+[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/legal/intellectualproperty/trademarks/usage/general).
+Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
