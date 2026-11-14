@@ -14,16 +14,16 @@ Curated links across Microsoft IQ, Web IQ, Fabric IQ, Foundry IQ, and Work IQ.
 - [https://learn.microsoft.com/en-us/web-iq/get-started/quickstart](https://learn.microsoft.com/en-us/web-iq/get-started/quickstart)
 
 ### Foundry IQ
-- [Agentic Retrieval Overview](https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-over view)
-- [What is Foundry IQ?](https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/what- is-foundry-iq)
+- [Agentic Retrieval Overview](https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-overview)
+- [What is Foundry IQ?](https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/what-is-foundry-iq)
 
 ### Work IQ
-- [Work IQ overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility /work-iq/)
-- [Work IQ Agent-to-Agent (A2A) overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility /work-iq/a2a/overview)
+- [Work IQ overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/)
+- [Work IQ Agent-to-Agent (A2A) overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/a2a/overview)
 
 ### Fabric IQ
-- [Generate Ontology (Preview) from Semantic Models](https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-generate- from-semantic-models)
-- [Use Ontology MCP Server (Preview)](https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-ontol ogy-mcp-server)
+- [Generate Ontology (Preview) from Semantic Models](https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-generate-from-semantic-models)
+- [Use Ontology MCP Server (Preview)](https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-ontology-mcp-server)
 
 ## Skilling Playlists
 

@@ -7,9 +7,9 @@ Curated links for building, deploying, and governing agent platforms and integra
 ## Resource Links by Subtopic
 
 ### Agent development and Integration
-- [Microsoft Agent 365 overview](https://learn.microsoft.com/en-us/microsoft-agent-365/overvi ew)
-- [What is the Microsoft 365 Agents SDK](https://learn.microsoft.com/en-us/microsoft-365/agents-sdk/a gents-sdk-overview)
-- [Microsoft Agent 365 SDK and CLI](https://learn.microsoft.com/en-us/microsoft-agent-365/develo per/)
+- [Microsoft Agent 365 overview](https://learn.microsoft.com/en-us/microsoft-agent-365/overview)
+- [What is the Microsoft 365 Agents SDK](https://learn.microsoft.com/en-us/microsoft-365/agents-sdk/agents-sdk-overview)
+- [Microsoft Agent 365 SDK and CLI](https://learn.microsoft.com/en-us/microsoft-agent-365/developer/)
 
 ### Microsoft Foundry
 - [Micro soft Foundry documentation](https://learn.microsoft.com/en-us/azure/foundry/)

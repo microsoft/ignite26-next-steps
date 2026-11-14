@@ -7,18 +7,18 @@ Curated links from Ignite 2026 sessions for cloud infrastructure, operations, ar
 ## Resource Links by Subtopic
 
 ### Cloud adoption and migration
-- [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framewo rk/)
-- [Cloud Adoption Framework agent adoption guidance](https://learn.microsoft.com/en-us/azure/cloud-adoption-framewo rk/ai-agents/)
+- [Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/)
+- [Cloud Adoption Framework agent adoption guidance](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai-agents/)
 
 ### Compute and application hosting
 - [https://learn.microsoft.com/en-us/azure/virtual-machines/](https://learn.microsoft.com/en-us/azure/virtual-machines/)
-- [A zure App Service documentation](https://learn.microsoft.com/en-us/azure/app-service/)
+- [Azure App Service documentation](https://learn.microsoft.com/en-us/azure/app-service/)
 - [Azure Container Apps documentation](https://learn.microsoft.com/en-us/azure/container-apps/)
 - [Azure Kubernetes Service documentation](https://learn.microsoft.com/en-us/azure/aks/)
 
 ### Networking and storage
 - [Az ure networking documentation](https://learn.microsoft.com/en-us/azure/networking/)
-- [Azure Data Lake Storage introduction](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake- storage-introduction)
+- [Azure Data Lake Storage introduction](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
 
 ### Architecture and reliability
 - [https://learn.microsoft.com/en-us/azure/reliability/](https://learn.microsoft.com/en-us/azure/reliability/)
@@ -32,10 +32,10 @@ Curated links from Ignite 2026 sessions for cloud infrastructure, operations, ar
 - [https://learn.microsoft.com/en-us/azure/azure-monitor/](https://learn.microsoft.com/en-us/azure/azure-monitor/)
 - [https://learn.microsoft.com/en-us/azure/governance/policy/](https://learn.microsoft.com/en-us/azure/governance/policy/)
 - [Azu re Backup documentation](https://learn.microsoft.com/en-us/azure/backup/)
-- [Azure Cost Management documentation](https://learn.microsoft.com/en-us/azure/cost-management-billi ng/costs/)
+- [Azure Cost Management documentation](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/)
 
 ### Infrastructure as code
-- [Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bice p/)
+- [Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 
 ## Skilling Playlists
 

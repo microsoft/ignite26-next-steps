@@ -8,12 +8,12 @@ Curated data and analytics links across Fabric, databases, search, and engineeri
 
 ### Analytics and business intelligence
 - [Microso ft Fabric documentation](https://learn.microsoft.com/en-us/fabric/)
-- [F abric administration documentation](https://learn.microsoft.com/en-us/fabric/admin/)
+- [Fabric administration documentation](https://learn.microsoft.com/en-us/fabric/admin/)
 - [Power BI documentation](https://learn.microsoft.com/en-us/power-bi/)
 - [https://learn.microsoft.com/en-us/azure/data-explorer/](https://learn.microsoft.com/en-us/azure/data-explorer/)
 
 ### Azure databases and SQL Server
-- [Get started with database architecture design](https://learn.microsoft.com/en-us/azure/architecture/databases/da tabase-get-started)
+- [Get started with database architecture design](https://learn.microsoft.com/en-us/azure/architecture/databases/database-get-started)
 - [Azur e Cosmos DB documentation](https://learn.microsoft.com/en-us/azure/cosmos-db/)
 - [Azu re Database for PostgreSQL documentation](https://learn.microsoft.com/en-us/azure/postgresql/)
 - [Azur e SQL documentation](https://learn.microsoft.com/en-us/azure/azure-sql/)
@@ -23,13 +23,13 @@ Curated data and analytics links across Fabric, databases, search, and engineeri
 
 ### AI search and knowledge retrieval
 - [Azur e AI Search documentation](https://learn.microsoft.com/en-us/azure/search/)
-- [Agentic Retrieval Overview](https://learn.microsoft.com/en-us/azure/search/agentic-retriev al-overview)
-- [What is Foundry IQ?](https://learn.microsoft.com/en-us/azure/foundry/agents/concept s/what-is-foundry-iq)
+- [Agentic Retrieval Overview](https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-overview)
+- [What is Foundry IQ?](https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/what-is-foundry-iq)
 
 ### Data engineering and integration
 - [Azure Databricks documentation](https://learn.microsoft.com/en-us/azure/databricks/)
 - [https://learn.microsoft.com/en-us/azure/data-factory/](https://learn.microsoft.com/en-us/azure/data-factory/)
-- [Azure Data Lake Storage introduction](https://learn.microsoft.com/en-us/azure/storage/blobs/data-l ake-storage-introduction)
+- [Azure Data Lake Storage introduction](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
 
 ## Skilling Playlists
 
