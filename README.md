@@ -6,6 +6,8 @@
 
 Microsoft Ignite brings AI into the flow of human ambition — from agents and platforms to security and data. Engage with session-specific content in your environment with interactive repos to further your learning for your own purposes. Click on a topic to see the repos for each session.
 
+👉 **[Browse the full site](https://microsoft.github.io/ignite26-next-steps/)** for the best experience with navigation across all topics.
+
 ## Session Topics
 
 - **[Cloud & AI](docs/cloud-ai.md)** — Modernize with confidence on the cloud and AI platform.
