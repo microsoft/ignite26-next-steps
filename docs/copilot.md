@@ -2,19 +2,40 @@
 
 # Copilot
 
-Explore labs, session repositories, and additional resources from Microsoft Ignite 2026 on bringing AI into the flow of human ambition with Copilot.
+Curated Copilot resources covering Microsoft Copilot, GitHub Copilot, extensibility, and Security Copilot.
+
+## Resource Links by Subtopic
+
+### Azure Copilot and Microsoft Security Copilot
+- [https://learn.microsoft.com/en-us/azure/copilot/overview](https://learn.microsoft.com/en-us/azure/copilot/overview)
+- [What is Microsoft Security Copilot?](https://learn.microsoft.com/en-us/copilot/security/microsoft-sec urity-copilot)
+- [Get started with Microsoft Security Copilot](https://learn.microsoft.com/en-us/copilot/security/get-started-s ecurity-copilot)
+- [Plugins overview for Microsoft Security Copilot](https://learn.microsoft.com/en-us/copilot/security/plugin-overvi ew)
+
+### GitHub Copilot
+- [About GitHub Copilot](https://docs.github.com/en/copilot/get-started/about-github-copi lot)
+- [Managing policies and features for GitHub Copilot in your enterprise](https://docs.github.com/en/copilot/how-tos/administer-copilot/ma nage-for-enterprise/manage-enterprise-policies)
+- [GitHub Copilot on GitHub.com and GitHub Mobile](https://docs.github.com/en/copilot/concepts/copilot-surfaces/cop ilot-on-github)
+
+### Microsoft Copilot
+- [Secure & Governed Data Foundation for Microsoft Copilot - Foundational Deployment Guidance](https://learn.microsoft.com/en-us/copilot/plan/secure-govern-cop ilot-foundational-deployment-guidance)
+- [What is Microsoft Copilot?](https://learn.microsoft.com/en-us/copilot/plan/copilot-overview)
+- [Data, Privacy, and Security for Microsoft Copilot](https://learn.microsoft.com/en-us/copilot/plan/microsoft-365-cop ilot-privacy)
+
+### Microsoft Copilot extensibility
+- [Copilot connectors overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/co nnectors/overview)
+- [Ways to extend Microsoft 365 Copilot](https://learn.microsoft.com/en-us/microsoft-365/copilot/ex tensibility/overview)
+- [Work IQ overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/ex tensibility/work-iq/)
+
+## Skilling Playlists
+
+- [AI at Work](https://aka.ms/Ignite26/TopicPg/AiAtWork)
 
 ## Session Repositories
 
-> 🚧 The Microsoft Ignite 2026 session catalog isn't live yet. This table will be populated with session repositories, presenters, and session pages once the catalog is available.
+Go deep with repos for Labs and other sessions.
 
-| Session | Presenters | Repo | Session Page |
-| --- | --- | --- | --- |
-| _TBD_ | _TBD_ | _TBD_ | _TBD_ |
-
-## 📚 Additional Resources
-
-> 🚧 Placeholder — resource links will be added closer to the event.
-
-- [Microsoft Copilot](https://copilot.microsoft.com) — Learn more about Microsoft Copilot
-- [Microsoft Learn](https://learn.microsoft.com) — Official documentation and guided learning
+| Session | Repository |
+| --- | --- |
+| `LAB740` Build executive focus with a Chief of Staff agent | [ignite26-LAB740](https://github.com/microsoft/ignite26-LAB740) |
+| `PREL36` Build your first agent in Copilot Studio | [ignite26-PREL36](https://github.com/microsoft/ignite26-PREL36) |

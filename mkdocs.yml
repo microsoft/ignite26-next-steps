@@ -18,20 +18,17 @@ exclude_docs: |
 nav:
   - Home: index.md
   - Session Topics:
-    - Copilot: copilot.md
+    - Cloud & AI: cloud-ai.md
     - Agent Platform: agent-platform.md
-    - Microsoft IQ: microsoft-iq.md
     - Security: security.md
-    - Windows: windows.md
+    - Copilot: copilot.md
+    - Data: data.md
     - Agentic Business Applications: agentic-business-applications.md
-    - Cloud & AI Platform: cloud-ai-platform.md
-    - Data & AI Platform: data-ai-platform.md
-    - Microsoft AI Cloud Partner Program: microsoft-ai-cloud-partner-program.md
+    - Frontier Transformation: frontier-transformation.md
+    - Windows: windows.md
+    - Microsoft IQ: microsoft-iq.md
   - Skilling & Resources:
     - Skills Hub: skills-hub.md
-  - Microsoft Marketplace: microsoft-marketplace.md
-  - MVP: mvp.md
-  - Microsoft Ignite Info: microsoft-ignite-info.md
 
 plugins:
   - glightbox

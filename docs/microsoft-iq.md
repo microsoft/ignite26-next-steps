@@ -2,19 +2,37 @@
 
 # Microsoft IQ
 
-Explore labs, session repositories, and additional resources from Microsoft Ignite 2026 focused on amplifying your intelligence with Microsoft IQ.
+Curated links across Microsoft IQ, Web IQ, Fabric IQ, Foundry IQ, and Work IQ.
+
+## Resource Links by Subtopic
+
+### Microsoft IQ overview
+- [Micro soft IQ documentation](https://learn.microsoft.com/en-us/microsoft-iq/)
+
+### Web IQ
+- [Microsoft Web IQ overview](https://learn.microsoft.com/en-us/web-iq/overview)
+- [https://learn.microsoft.com/en-us/web-iq/get-started/quickstart](https://learn.microsoft.com/en-us/web-iq/get-started/quickstart)
+
+### Foundry IQ
+- [Agentic Retrieval Overview](https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-over view)
+- [What is Foundry IQ?](https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/what- is-foundry-iq)
+
+### Work IQ
+- [Work IQ overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility /work-iq/)
+- [Work IQ Agent-to-Agent (A2A) overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility /work-iq/a2a/overview)
+
+### Fabric IQ
+- [Generate Ontology (Preview) from Semantic Models](https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-generate- from-semantic-models)
+- [Use Ontology MCP Server (Preview)](https://learn.microsoft.com/en-us/fabric/iq/ontology/how-to-use-ontol ogy-mcp-server)
+
+## Skilling Playlists
+
+- [Architect Context-Aware Agents with the Microsoft IQ Stack](https://aka.ms/Ignite26/TopicPg/ContextAwareAgents)
 
 ## Session Repositories
 
-> 🚧 The Microsoft Ignite 2026 session catalog isn't live yet. This table will be populated with session repositories, presenters, and session pages once the catalog is available.
+Go deep with repos for Labs and other sessions.
 
-| Session | Presenters | Repo | Session Page |
-| --- | --- | --- | --- |
-| _TBD_ | _TBD_ | _TBD_ | _TBD_ |
-
-## 📚 Additional Resources
-
-> 🚧 Placeholder — resource links will be added closer to the event.
-
-- [Microsoft Learn](https://learn.microsoft.com) — Official documentation and guided learning
-- [Work IQ API (preview)](https://learn.microsoft.com/microsoft-365/copilot/extensibility/work-iq-api-overview) — Build agentic and AI-powered applications that reason over Microsoft 365 data
+| Session | Repository |
+| --- | --- |
+| `LAB672` Ground agents in your business with an ontology in Fabric IQ | [ignite26-LAB672](https://github.com/microsoft/ignite26-LAB672) |

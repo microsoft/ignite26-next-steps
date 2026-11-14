@@ -2,19 +2,28 @@
 
 # Agent Platform
 
-Explore labs, session repositories, and additional resources from Microsoft Ignite 2026 focused on ubiquitous innovation with the agent platform — building, deploying, and scaling agents everywhere.
+Curated links for building, deploying, and governing agent platforms and integrations.
+
+## Resource Links by Subtopic
+
+### Agent development and Integration
+- [Microsoft Agent 365 overview](https://learn.microsoft.com/en-us/microsoft-agent-365/overvi ew)
+- [What is the Microsoft 365 Agents SDK](https://learn.microsoft.com/en-us/microsoft-365/agents-sdk/a gents-sdk-overview)
+- [Microsoft Agent 365 SDK and CLI](https://learn.microsoft.com/en-us/microsoft-agent-365/develo per/)
+
+### Microsoft Foundry
+- [Micro soft Foundry documentation](https://learn.microsoft.com/en-us/azure/foundry/)
+- [What is Microsoft Foundry Agent Service?](https://learn.microsoft.com/en-us/azure/foundry/agents/overview)
+
+## Skilling Playlists
+
+- [IT Pro - Get visibility with Microsoft Agent 365, the control plane for agents](https://aka.ms/Ignite26/TopicPg/Agent365Visibility)
+- [New at Ignite 2026: DevTools](https://aka.ms/Ignite26/TopicPg/Ignite26DevTools)
 
 ## Session Repositories
 
-> 🚧 The Microsoft Ignite 2026 session catalog isn't live yet. This table will be populated with session repositories, presenters, and session pages once the catalog is available.
+Go deep with repos for Labs and other sessions.
 
-| Session | Presenters | Repo | Session Page |
-| --- | --- | --- | --- |
-| _TBD_ | _TBD_ | _TBD_ | _TBD_ |
-
-## 📚 Additional Resources
-
-> 🚧 Placeholder — resource links will be added closer to the event.
-
-- [Microsoft Foundry Agent Service](https://learn.microsoft.com/azure/foundry/agents/overview) — Overview and key capabilities of Foundry for building, testing, and deploying agents
-- [Microsoft Agent 365](https://learn.microsoft.com/microsoft-agent-365/developer) — Enterprise-grade identity, observability, and governance for agents
+| Session | Repository |
+| --- | --- |
+| `LAB665` See how far one agent goes in Copilot Studio | [ignite26-LAB665](https://github.com/microsoft/ignite26-LAB665) |

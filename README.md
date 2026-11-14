@@ -12,22 +12,19 @@ Microsoft Ignite brings AI into the flow of human ambition — from agents and p
 
 ## Session Topics
 
-- **[Copilot](docs/copilot.md)** — AI in the flow of human ambition — bringing Copilot into everyday work.
+- **[Cloud & AI](docs/cloud-ai.md)** — Modernize with confidence on the cloud and AI platform.
 - **[Agent Platform](docs/agent-platform.md)** — Ubiquitous innovation — building, deploying, and scaling agents everywhere.
-- **[Microsoft IQ](docs/microsoft-iq.md)** — Amplify your intelligence with Microsoft IQ.
 - **[Security](docs/security.md)** — Establishing a trusted and secure platform for AI.
-- **[Windows](docs/windows.md)** — AI-ready productivity and security for every employee.
+- **[Copilot](docs/copilot.md)** — AI in the flow of human ambition — bringing Copilot into everyday work.
+- **[Data](docs/data.md)** — Build a unified, governed data and AI estate.
 - **[Agentic Business Applications](docs/agentic-business-applications.md)** — Agentifying your business processes.
-- **[Cloud & AI Platform](docs/cloud-ai-platform.md)** — Modernize with confidence on the cloud and AI platform.
-- **[Data & AI Platform](docs/data-ai-platform.md)** — Build a unified, governed data and AI estate.
-- **[Microsoft AI Cloud Partner Program](docs/microsoft-ai-cloud-partner-program.md)** — Resources and enablement for partners building on Microsoft AI.
+- **[Frontier Transformation](docs/frontier-transformation.md)** — Adoption, governance, readiness, and business impact resources for transformation initiatives.
+- **[Microsoft IQ](docs/microsoft-iq.md)** — Amplify your intelligence with Microsoft IQ.
+- **[Windows](docs/windows.md)** — AI-ready productivity and security for every employee.
 
 ## Skilling & Resources
 
 - [Skills Hub](docs/skills-hub.md) — Worldwide skilling programs and learning paths
-- [Microsoft Marketplace](docs/microsoft-marketplace.md) — Microsoft Marketplace resources and extensions
-- [MVP](docs/mvp.md) — Microsoft MVP community resources
-- [Microsoft Ignite Info](docs/microsoft-ignite-info.md) — Microsoft Ignite event information and registration
 
 ## Contributing
 
