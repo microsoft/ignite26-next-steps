@@ -23,7 +23,7 @@ Curated security resources from Ignite 2026 across identity, defense, SIEM/XDR, 
 - [Microsoft Defender XDR integration with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-365-defender-sentinel-integration)
 
 ### Data security and compliance (Microsoft Purview)
-- [https://learn.microsoft.com/en-us/purview/deploymentmodels/](https://learn.microsoft.com/en-us/purview/deploymentmodels/)
+- [Microsoft Purview deployment models](https://learn.microsoft.com/en-us/purview/deploymentmodels/)
 - [Get started with endpoint data loss prevention](https://learn.microsoft.com/en-us/purview/endpoint-dlp-getting-started)
 - [Microsoft Purview data security and compliance protections for AI apps](https://learn.microsoft.com/en-us/purview/ai-microsoft-purview)
 
@@ -41,5 +41,5 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
-| `PREL39` Ready, Secure, Govern Microsoft Copilot Chat & Cowork Workshop | [ignite26-PREL39](https://github.com/microsoft/ignite26-PREL39) |
-| `THR996` Your Agent Has Access. Now Prove What It Did. | [ignite26-THR996](https://github.com/microsoft/ignite26-THR996) |
+| `PREL39` Ready, Secure, Govern Microsoft Copilot Chat & Cowork Workshop | [Session Repo](https://aka.ms/ignite26/PREL39/repo) |
+| `THR996` Your Agent Has Access. Now Prove What It Did. | [Session Repo](https://aka.ms/ignite26/THR996/repo) |

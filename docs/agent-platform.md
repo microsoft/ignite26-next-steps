@@ -26,13 +26,13 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
-| `BRK240` Build and scale the next generation of AI agents in Microsoft Foundry | [ignite26-BRK240](https://github.com/microsoft/ignite26-BRK240) |
-| `BRK244` Voice agents in Microsoft Foundry: Prototype to production in 45 mins | [ignite26-BRK244](https://github.com/microsoft/ignite26-BRK244) |
-| `LAB660` Configuring, monitoring, and managing AI spend with Agent 365 | [ignite26-LAB660](https://github.com/microsoft/ignite26-LAB660) |
-| `LAB661` Hill climbing for agents: From 60% to 90% with Open Source and Foundry | [ignite26-LAB661](https://github.com/microsoft/ignite26-LAB661) |
-| `LAB662` Avoiding agent chaos: Design your enterprise governance model | [ignite26-LAB662](https://github.com/microsoft/ignite26-LAB662) |
-| `LAB663` Build smarter AI systems with model router and agent optimizer | [ignite26-LAB663](https://github.com/microsoft/ignite26-LAB663) |
-| `LAB664` Build agentic document workflows with Content Understanding | [ignite26-LAB664](https://github.com/microsoft/ignite26-LAB664) |
-| `LAB665` See how far one agent goes in Copilot Studio | [ignite26-LAB665](https://github.com/microsoft/ignite26-LAB665) |
-| `LTG1185` Build an AI customer support agent with Microsoft Foundry | [ignite26-LTG1185](https://github.com/microsoft/ignite26-LTG1185) |
-| `THR1002` From Ticket to PR: Field Lessons from an Autonomous Code Agent | [ignite26-THR1002](https://github.com/microsoft/ignite26-THR1002) |
+| `BRK240` Build and scale the next generation of AI agents in Microsoft Foundry | [Session Repo](https://aka.ms/ignite26/BRK240/repo) |
+| `BRK244` Voice agents in Microsoft Foundry: Prototype to production in 45 mins | [Session Repo](https://aka.ms/ignite26/BRK244/repo) |
+| `LAB660` Configuring, monitoring, and managing AI spend with Agent 365 | [Session Repo](https://aka.ms/ignite26/LAB660/repo) |
+| `LAB661` Hill climbing for agents: From 60% to 90% with Open Source and Foundry | [Session Repo](https://aka.ms/ignite26/LAB661/repo) |
+| `LAB662` Avoiding agent chaos: Design your enterprise governance model | [Session Repo](https://aka.ms/ignite26/LAB662/repo) |
+| `LAB663` Build smarter AI systems with model router and agent optimizer | [Session Repo](https://aka.ms/ignite26/LAB663/repo) |
+| `LAB664` Build agentic document workflows with Content Understanding | [Session Repo](https://aka.ms/ignite26/LAB664/repo) |
+| `LAB665` See how far one agent goes in Copilot Studio | [Session Repo](https://aka.ms/ignite26/LAB665/repo) |
+| `LTG1185` Build an AI customer support agent with Microsoft Foundry | [Session Repo](https://aka.ms/ignite26/LTG1185/repo) |
+| `THR1002` From Ticket to PR: Field Lessons from an Autonomous Code Agent | [Session Repo](https://aka.ms/ignite26/THR1002/repo) |

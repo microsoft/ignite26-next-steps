@@ -16,7 +16,7 @@ Curated resources for Dynamics, Power Platform, Copilot Studio, and business pro
 - [PL-7002 Create and manage automated processes by using Power Automate](https://github.com/MicrosoftLearning/PL-7002-Create-and-Manage-Automated-Processes-by-using-Power-Automate)
 
 ### Microsoft Power Platform
-- [https://learn.microsoft.com/en-us/power-platform/admin/](https://learn.microsoft.com/en-us/power-platform/admin/)
+- [Microsoft Power Platform admin documentation](https://learn.microsoft.com/en-us/power-platform/admin/)
 
 ## Session Repositories
 

@@ -7,7 +7,7 @@ Curated Copilot resources covering Microsoft Copilot, GitHub Copilot, extensibil
 ## Resource Links by Subtopic
 
 ### Azure Copilot and Microsoft Security Copilot
-- [https://learn.microsoft.com/en-us/azure/copilot/overview](https://learn.microsoft.com/en-us/azure/copilot/overview)
+- [What is Azure Copilot?](https://learn.microsoft.com/en-us/azure/copilot/overview)
 - [What is Microsoft Security Copilot?](https://learn.microsoft.com/en-us/copilot/security/microsoft-security-copilot)
 - [Get started with Microsoft Security Copilot](https://learn.microsoft.com/en-us/copilot/security/get-started-security-copilot)
 - [Plugins overview for Microsoft Security Copilot](https://learn.microsoft.com/en-us/copilot/security/plugin-overview)
@@ -37,10 +37,10 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
-| `LAB650` Build a Knowledge-Powered Workspace with Copilot in SharePoint | [ignite26-LAB650](https://github.com/microsoft/ignite26-LAB650) |
-| `LAB651` Build AI Agents in Teams: 1P, 3P, and Agentic Workflows Hands-On | [ignite26-LAB651](https://github.com/microsoft/ignite26-LAB651) |
-| `LAB652` Delegate complex work: Hands-on with Copilot Cowork | [ignite26-LAB652](https://github.com/microsoft/ignite26-LAB652) |
-| `LAB654` Copilot Connectors: Connect once. Use enterprise knowledge everywhere. | [ignite26-LAB654](https://github.com/microsoft/ignite26-LAB654) |
-| `LAB655` The Next Generation of Teams Administration | [ignite26-LAB655](https://github.com/microsoft/ignite26-LAB655) |
-| `LAB740` Build executive focus with a Chief of Staff agent | [ignite26-LAB740](https://github.com/microsoft/ignite26-LAB740) |
-| `PREL36` Build your first agent in Copilot Studio | [ignite26-PREL36](https://github.com/microsoft/ignite26-PREL36) |
+| `LAB650` Build a Knowledge-Powered Workspace with Copilot in SharePoint | [Session Repo](https://aka.ms/ignite26/LAB650/repo) |
+| `LAB651` Build AI Agents in Teams: 1P, 3P, and Agentic Workflows Hands-On | [Session Repo](https://aka.ms/ignite26/LAB651/repo) |
+| `LAB652` Delegate complex work: Hands-on with Copilot Cowork | [Session Repo](https://aka.ms/ignite26/LAB652/repo) |
+| `LAB654` Copilot Connectors: Connect once. Use enterprise knowledge everywhere. | [Session Repo](https://aka.ms/ignite26/LAB654/repo) |
+| `LAB655` The Next Generation of Teams Administration | [Session Repo](https://aka.ms/ignite26/LAB655/repo) |
+| `LAB740` Build executive focus with a Chief of Staff agent | [Session Repo](https://aka.ms/ignite26/LAB740/repo) |
+| `PREL36` Build your first agent in Copilot Studio | [Session Repo](https://aka.ms/ignite26/PREL36/repo) |

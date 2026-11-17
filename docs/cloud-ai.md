@@ -11,7 +11,7 @@ Curated links from Ignite 2026 sessions for cloud infrastructure, operations, ar
 - [Cloud Adoption Framework agent adoption guidance](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ai-agents/)
 
 ### Compute and application hosting
-- [https://learn.microsoft.com/en-us/azure/virtual-machines/](https://learn.microsoft.com/en-us/azure/virtual-machines/)
+- [Virtual machines in Azure](https://learn.microsoft.com/en-us/azure/virtual-machines/)
 - [Azure App Service documentation](https://learn.microsoft.com/en-us/azure/app-service/)
 - [Azure Container Apps documentation](https://learn.microsoft.com/en-us/azure/container-apps/)
 - [Azure Kubernetes Service documentation](https://learn.microsoft.com/en-us/azure/aks/)
@@ -21,16 +21,16 @@ Curated links from Ignite 2026 sessions for cloud infrastructure, operations, ar
 - [Azure Data Lake Storage introduction](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
 
 ### Architecture and reliability
-- [https://learn.microsoft.com/en-us/azure/reliability/](https://learn.microsoft.com/en-us/azure/reliability/)
+- [Azure reliability documentation](https://learn.microsoft.com/en-us/azure/reliability/)
 
 ### Hybrid and edge infrastructure
-- [https://learn.microsoft.com/en-us/azure/azure-arc/](https://learn.microsoft.com/en-us/azure/azure-arc/)
-- [https://learn.microsoft.com/en-us/azure/azure-local/](https://learn.microsoft.com/en-us/azure/azure-local/)
+- [Azure Arc documentation](https://learn.microsoft.com/en-us/azure/azure-arc/)
+- [Azure Local documentation](https://learn.microsoft.com/en-us/azure/azure-local/)
 - [Azure Update Manager documentation](https://learn.microsoft.com/en-us/azure/update-manager/)
 
 ### Operations and Management
-- [https://learn.microsoft.com/en-us/azure/azure-monitor/](https://learn.microsoft.com/en-us/azure/azure-monitor/)
-- [https://learn.microsoft.com/en-us/azure/governance/policy/](https://learn.microsoft.com/en-us/azure/governance/policy/)
+- [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
+- [Azure Policy documentation](https://learn.microsoft.com/en-us/azure/governance/policy/)
 - [Azu re Backup documentation](https://learn.microsoft.com/en-us/azure/backup/)
 - [Azure Cost Management documentation](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/)
 
@@ -50,5 +50,5 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
-| `PREL37` Platform engineering on AKS: A paved road to AI apps | [ignite26-PREL37](https://github.com/microsoft/ignite26-PREL37) |
-| `PREL38` Plan, modernize, deploy, and operate with AI agents | [ignite26-PREL38](https://github.com/microsoft/ignite26-PREL38) |
+| `PREL37` Platform engineering on AKS: A paved road to AI apps | [Session Repo](https://aka.ms/ignite26/PREL37/repo) |
+| `PREL38` Plan, modernize, deploy, and operate with AI agents | [Session Repo](https://aka.ms/ignite26/PREL38/repo) |

@@ -11,7 +11,7 @@ Curated links across Microsoft IQ, Web IQ, Fabric IQ, Foundry IQ, and Work IQ.
 
 ### Web IQ
 - [Microsoft Web IQ overview](https://learn.microsoft.com/en-us/web-iq/overview)
-- [https://learn.microsoft.com/en-us/web-iq/get-started/quickstart](https://learn.microsoft.com/en-us/web-iq/get-started/quickstart)
+- [Quickstart: Make your first Web IQ API calls](https://learn.microsoft.com/en-us/web-iq/get-started/quickstart)
 
 ### Foundry IQ
 - [Agentic Retrieval Overview](https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-overview)
@@ -35,7 +35,7 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
-| `BRK300` Building agentic retrieval: From DIY to Foundry IQ | [ignite26-BRK300](https://github.com/microsoft/ignite26-BRK300) |
-| `LAB670` Build your first Microsoft IQ playbook | [ignite26-LAB670](https://github.com/microsoft/ignite26-LAB670) |
-| `LAB672` Ground agents in your business with an ontology in Fabric IQ | [ignite26-LAB672](https://github.com/microsoft/ignite26-LAB672) |
-| `PREL42` Build with Microsoft IQ: A hands-on workshop for context-aware AI | [ignite26-PREL42](https://github.com/microsoft/ignite26-PREL42) |
+| `BRK300` Building agentic retrieval: From DIY to Foundry IQ | [Session Repo](https://aka.ms/ignite26/BRK300/repo) |
+| `LAB670` Build your first Microsoft IQ playbook | [Session Repo](https://aka.ms/ignite26/LAB670/repo) |
+| `LAB672` Ground agents in your business with an ontology in Fabric IQ | [Session Repo](https://aka.ms/ignite26/LAB672/repo) |
+| `PREL42` Build with Microsoft IQ: A hands-on workshop for context-aware AI | [Session Repo](https://aka.ms/ignite26/PREL42/repo) |

@@ -10,7 +10,7 @@ Curated data and analytics links across Fabric, databases, search, and engineeri
 - [Microso ft Fabric documentation](https://learn.microsoft.com/en-us/fabric/)
 - [Fabric administration documentation](https://learn.microsoft.com/en-us/fabric/admin/)
 - [Power BI documentation](https://learn.microsoft.com/en-us/power-bi/)
-- [https://learn.microsoft.com/en-us/azure/data-explorer/](https://learn.microsoft.com/en-us/azure/data-explorer/)
+- [Azure Data Explorer documentation](https://learn.microsoft.com/en-us/azure/data-explorer/)
 
 ### Azure databases and SQL Server
 - [Get started with database architecture design](https://learn.microsoft.com/en-us/azure/architecture/databases/database-get-started)
@@ -28,7 +28,7 @@ Curated data and analytics links across Fabric, databases, search, and engineeri
 
 ### Data engineering and integration
 - [Azure Databricks documentation](https://learn.microsoft.com/en-us/azure/databricks/)
-- [https://learn.microsoft.com/en-us/azure/data-factory/](https://learn.microsoft.com/en-us/azure/data-factory/)
+- [Azure Data Factory Documentation](https://learn.microsoft.com/en-us/azure/data-factory/)
 - [Azure Data Lake Storage introduction](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
 
 ## Skilling Playlists
@@ -42,6 +42,6 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
-| `LAB691` Build an AI-ready data foundation with Microsoft OneLake | [ignite26-LAB691](https://github.com/microsoft/ignite26-LAB691) |
-| `PREL40` Build data-rich apps in Microsoft Fabric | [ignite26-PREL40](https://github.com/microsoft/ignite26-PREL40) |
-| `PREL41` Unify operational and real-time data estates with Microsoft Fabric | [ignite26-PREL41](https://github.com/microsoft/ignite26-PREL41) |
+| `LAB691` Build an AI-ready data foundation with Microsoft OneLake | [Session Repo](https://aka.ms/ignite26/LAB691/repo) |
+| `PREL40` Build data-rich apps in Microsoft Fabric | [Session Repo](https://aka.ms/ignite26/PREL40/repo) |
+| `PREL41` Unify operational and real-time data estates with Microsoft Fabric | [Session Repo](https://aka.ms/ignite26/PREL41/repo) |
