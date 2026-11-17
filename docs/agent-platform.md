@@ -26,8 +26,6 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
-| `BRK240` Build and scale the next generation of AI agents in Microsoft Foundry | [Session Repo](https://aka.ms/ignite26/BRK240/repo) |
-| `BRK244` Voice agents in Microsoft Foundry: Prototype to production in 45 mins | [Session Repo](https://aka.ms/ignite26/BRK244/repo) |
 | `LAB660` Configuring, monitoring, and managing AI spend with Agent 365 | [Session Repo](https://aka.ms/ignite26/LAB660/repo) |
 | `LAB661` Hill climbing for agents: From 60% to 90% with Open Source and Foundry | [Session Repo](https://aka.ms/ignite26/LAB661/repo) |
 | `LAB662` Avoiding agent chaos: Design your enterprise governance model | [Session Repo](https://aka.ms/ignite26/LAB662/repo) |
@@ -36,8 +34,10 @@ Go deep with repos for Labs and other sessions.
 | `LAB665` See how far one agent goes in Copilot Studio | [Session Repo](https://aka.ms/ignite26/LAB665/repo) |
 | `LAB666` Host apps from anywhere with the new Copilot Managed Runtime | [Session Repo](https://aka.ms/ignite26/LAB666/repo) |
 | `LAB667` Building multi-agent systems. Lost in San Francisco | [Session Repo](https://aka.ms/ignite26/LAB667/repo) |
-| `LTG1185` Build an AI customer support agent with Microsoft Foundry | [Session Repo](https://aka.ms/ignite26/LTG1185/repo) |
-| `PREL35` Building a path to production for agents | [Session Repo](https://aka.ms/ignite26/PREL35/repo) |
-| `THR1002` From Ticket to PR: Field Lessons from an Autonomous Code Agent | [Session Repo](https://aka.ms/ignite26/THR1002/repo) |
 | `LAB730` Build healthcare agents with foundation and reasoning models | [Session Repo](https://aka.ms/ignite26/LAB730/repo) |
+| `PREL35` Building a path to production for agents | [Session Repo](https://aka.ms/ignite26/PREL35/repo) |
+| `BRK240` Build and scale the next generation of AI agents in Microsoft Foundry | [Session Repo](https://aka.ms/ignite26/BRK240/repo) |
+| `BRK244` Voice agents in Microsoft Foundry: Prototype to production in 45 mins | [Session Repo](https://aka.ms/ignite26/BRK244/repo) |
 | `THR979` Follow the Tokens: Finding the Real Cost of Your Foundry AI Models | [Session Repo](https://aka.ms/ignite26/THR979/repo) |
+| `THR1002` From Ticket to PR: Field Lessons from an Autonomous Code Agent | [Session Repo](https://aka.ms/ignite26/THR1002/repo) |
+| `LTG1185` Build an AI customer support agent with Microsoft Foundry | [Session Repo](https://aka.ms/ignite26/LTG1185/repo) |

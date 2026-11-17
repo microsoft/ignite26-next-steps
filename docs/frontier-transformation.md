@@ -28,6 +28,6 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
-| `LAB741` From AI ambition to business advantage | [Session Repo](https://aka.ms/ignite26/LAB741/repo) |
 | `LAB731` Frontier transformation: A Leadership Workshop | [Session Repo](https://aka.ms/ignite26/LAB731/repo) |
+| `LAB741` From AI ambition to business advantage | [Session Repo](https://aka.ms/ignite26/LAB741/repo) |
 | `PREL43` From AI Curiosity to Practical Capability | [Session Repo](https://aka.ms/ignite26/PREL43/repo) |

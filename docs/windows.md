@@ -35,8 +35,8 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
-| `BRK394` Building Windows apps with WinUI and agents | [Session Repo](https://aka.ms/ignite26/BRK394/repo) |
-| `BRK395` Inside WSL containers for application development | [Session Repo](https://aka.ms/ignite26/BRK395/repo) |
 | `LAB710` Provisioning and Configuring Windows 365 for Agentic Workloads | [Session Repo](https://aka.ms/ignite26/LAB710/repo) |
 | `LAB711` Build an AI-Ready Secure Foundation with Zero Trust | [Session Repo](https://aka.ms/ignite26/LAB711/repo) |
 | `LAB712` Strengthen endpoint protection from onboarding to offboarding | [Session Repo](https://aka.ms/ignite26/LAB712/repo) |
+| `BRK394` Building Windows apps with WinUI and agents | [Session Repo](https://aka.ms/ignite26/BRK394/repo) |
+| `BRK395` Inside WSL containers for application development | [Session Repo](https://aka.ms/ignite26/BRK395/repo) |
