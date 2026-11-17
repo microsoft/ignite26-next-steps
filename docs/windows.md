@@ -33,4 +33,7 @@ Curated Windows resources for Cloud PCs, deployment, Windows Server, and local A
 
 Go deep with repos for Labs and other sessions.
 
-_No public session repositories available yet._
+| Session | Repository |
+| --- | --- |
+| `BRK394` Building Windows apps with WinUI and agents | [ignite26-BRK394](https://github.com/microsoft/ignite26-BRK394) |
+| `BRK395` Inside WSL containers for application development | [ignite26-BRK395](https://github.com/microsoft/ignite26-BRK395) |

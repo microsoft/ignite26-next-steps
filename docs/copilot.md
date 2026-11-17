@@ -37,5 +37,10 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
+| `LAB650` Build a Knowledge-Powered Workspace with Copilot in SharePoint | [ignite26-LAB650](https://github.com/microsoft/ignite26-LAB650) |
+| `LAB651` Build AI Agents in Teams: 1P, 3P, and Agentic Workflows Hands-On | [ignite26-LAB651](https://github.com/microsoft/ignite26-LAB651) |
+| `LAB652` Delegate complex work: Hands-on with Copilot Cowork | [ignite26-LAB652](https://github.com/microsoft/ignite26-LAB652) |
+| `LAB654` Copilot Connectors: Connect once. Use enterprise knowledge everywhere. | [ignite26-LAB654](https://github.com/microsoft/ignite26-LAB654) |
+| `LAB655` The Next Generation of Teams Administration | [ignite26-LAB655](https://github.com/microsoft/ignite26-LAB655) |
 | `LAB740` Build executive focus with a Chief of Staff agent | [ignite26-LAB740](https://github.com/microsoft/ignite26-LAB740) |
 | `PREL36` Build your first agent in Copilot Studio | [ignite26-PREL36](https://github.com/microsoft/ignite26-PREL36) |

@@ -42,3 +42,4 @@ Go deep with repos for Labs and other sessions.
 | Session | Repository |
 | --- | --- |
 | `PREL39` Ready, Secure, Govern Microsoft Copilot Chat & Cowork Workshop | [ignite26-PREL39](https://github.com/microsoft/ignite26-PREL39) |
+| `THR996` Your Agent Has Access. Now Prove What It Did. | [ignite26-THR996](https://github.com/microsoft/ignite26-THR996) |

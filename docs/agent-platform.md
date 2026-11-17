@@ -26,6 +26,13 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
+| `BRK240` Build and scale the next generation of AI agents in Microsoft Foundry | [ignite26-BRK240](https://github.com/microsoft/ignite26-BRK240) |
+| `BRK244` Voice agents in Microsoft Foundry: Prototype to production in 45 mins | [ignite26-BRK244](https://github.com/microsoft/ignite26-BRK244) |
+| `LAB660` Configuring, monitoring, and managing AI spend with Agent 365 | [ignite26-LAB660](https://github.com/microsoft/ignite26-LAB660) |
+| `LAB661` Hill climbing for agents: From 60% to 90% with Open Source and Foundry | [ignite26-LAB661](https://github.com/microsoft/ignite26-LAB661) |
+| `LAB662` Avoiding agent chaos: Design your enterprise governance model | [ignite26-LAB662](https://github.com/microsoft/ignite26-LAB662) |
+| `LAB663` Build smarter AI systems with model router and agent optimizer | [ignite26-LAB663](https://github.com/microsoft/ignite26-LAB663) |
+| `LAB664` Build agentic document workflows with Content Understanding | [ignite26-LAB664](https://github.com/microsoft/ignite26-LAB664) |
 | `LAB665` See how far one agent goes in Copilot Studio | [ignite26-LAB665](https://github.com/microsoft/ignite26-LAB665) |
-| `LAB666` Host apps from anywhere with the new Copilot Managed Runtime | [ignite26-LAB666](https://github.com/microsoft/ignite26-LAB666) |
-| `PREL35` Building a path to production for agents | [ignite26-PREL35](https://github.com/microsoft/ignite26-PREL35) |
+| `LTG1185` Build an AI customer support agent with Microsoft Foundry | [ignite26-LTG1185](https://github.com/microsoft/ignite26-LTG1185) |
+| `THR1002` From Ticket to PR: Field Lessons from an Autonomous Code Agent | [ignite26-THR1002](https://github.com/microsoft/ignite26-THR1002) |
