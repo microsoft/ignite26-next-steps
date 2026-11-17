@@ -52,3 +52,9 @@ Go deep with repos for Labs and other sessions.
 | --- | --- |
 | `PREL37` Platform engineering on AKS: A paved road to AI apps | [Session Repo](https://aka.ms/ignite26/PREL37/repo) |
 | `PREL38` Plan, modernize, deploy, and operate with AI agents | [Session Repo](https://aka.ms/ignite26/PREL38/repo) |
+| `LAB720` Hands-on: Modernize apps and databases and automate operations | [Session Repo](https://aka.ms/ignite26/LAB720/repo) |
+| `LAB721` Hands-on with the resiliency in Azure: Assess, recommend, recover | [Session Repo](https://aka.ms/ignite26/LAB721/repo) |
+| `LAB722` Operate secure, multi-tenant agentic apps on Azure Container Apps | [Session Repo](https://aka.ms/ignite26/LAB722/repo) |
+| `LAB723` Build, observe, and scale AI-ready apps and workloads with AKS | [Session Repo](https://aka.ms/ignite26/LAB723/repo) |
+| `LAB724` Govern your estate with Azure Arc and Azure Resource Manager MCP | [Session Repo](https://aka.ms/ignite26/LAB724/repo) |
+| `LAB725` Hands-on: Network monitoring and troubleshooting | [Session Repo](https://aka.ms/ignite26/LAB725/repo) |

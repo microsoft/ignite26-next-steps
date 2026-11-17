@@ -39,3 +39,5 @@ Go deep with repos for Labs and other sessions.
 | `LTG1185` Build an AI customer support agent with Microsoft Foundry | [Session Repo](https://aka.ms/ignite26/LTG1185/repo) |
 | `PREL35` Building a path to production for agents | [Session Repo](https://aka.ms/ignite26/PREL35/repo) |
 | `THR1002` From Ticket to PR: Field Lessons from an Autonomous Code Agent | [Session Repo](https://aka.ms/ignite26/THR1002/repo) |
+| `LAB730` Build healthcare agents with foundation and reasoning models | [Session Repo](https://aka.ms/ignite26/LAB730/repo) |
+| `THR979` Follow the Tokens: Finding the Real Cost of Your Foundry AI Models | [Session Repo](https://aka.ms/ignite26/THR979/repo) |
