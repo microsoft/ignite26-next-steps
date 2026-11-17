@@ -41,5 +41,11 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
+| `LAB680` AI Agents Are Sending Signals. Make Access Respond. | [Session Repo](https://aka.ms/ignite26/LAB680/repo) |
+| `LAB681` Turn signal into real-time protections with Project Perception | [Session Repo](https://aka.ms/ignite26/LAB681/repo) |
+| `LAB682` Can't secure what you can't see. Find every AI agent in your org | [Session Repo](https://aka.ms/ignite26/LAB682/repo) |
+| `LAB683` Secure local AI agents with end-to-end threat protection | [Session Repo](https://aka.ms/ignite26/LAB683/repo) |
+| `LAB684` Ready for AI: A Zero Trust Workshop | [Session Repo](https://aka.ms/ignite26/LAB684/repo) |
+| `LAB685` Deploy Copilot with confidence: Find & protect exposed sensitive data | [Session Repo](https://aka.ms/ignite26/LAB685/repo) |
 | `PREL39` Ready, Secure, Govern Microsoft Copilot Chat & Cowork Workshop | [Session Repo](https://aka.ms/ignite26/PREL39/repo) |
 | `THR996` Your Agent Has Access. Now Prove What It Did. | [Session Repo](https://aka.ms/ignite26/THR996/repo) |

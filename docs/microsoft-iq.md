@@ -37,5 +37,7 @@ Go deep with repos for Labs and other sessions.
 | --- | --- |
 | `BRK300` Building agentic retrieval: From DIY to Foundry IQ | [Session Repo](https://aka.ms/ignite26/BRK300/repo) |
 | `LAB670` Build your first Microsoft IQ playbook | [Session Repo](https://aka.ms/ignite26/LAB670/repo) |
+| `LAB671` Build a proactive intelligence agent using Work IQ | [Session Repo](https://aka.ms/ignite26/LAB671/repo) |
 | `LAB672` Ground agents in your business with an ontology in Fabric IQ | [Session Repo](https://aka.ms/ignite26/LAB672/repo) |
+| `LAB673` Turning data into agent-ready knowledge with Foundry IQ | [Session Repo](https://aka.ms/ignite26/LAB673/repo) |
 | `PREL42` Build with Microsoft IQ: A hands-on workshop for context-aware AI | [Session Repo](https://aka.ms/ignite26/PREL42/repo) |

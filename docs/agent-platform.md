@@ -34,5 +34,8 @@ Go deep with repos for Labs and other sessions.
 | `LAB663` Build smarter AI systems with model router and agent optimizer | [Session Repo](https://aka.ms/ignite26/LAB663/repo) |
 | `LAB664` Build agentic document workflows with Content Understanding | [Session Repo](https://aka.ms/ignite26/LAB664/repo) |
 | `LAB665` See how far one agent goes in Copilot Studio | [Session Repo](https://aka.ms/ignite26/LAB665/repo) |
+| `LAB666` Host apps from anywhere with the new Copilot Managed Runtime | [Session Repo](https://aka.ms/ignite26/LAB666/repo) |
+| `LAB667` Building multi-agent systems. Lost in San Francisco | [Session Repo](https://aka.ms/ignite26/LAB667/repo) |
 | `LTG1185` Build an AI customer support agent with Microsoft Foundry | [Session Repo](https://aka.ms/ignite26/LTG1185/repo) |
+| `PREL35` Building a path to production for agents | [Session Repo](https://aka.ms/ignite26/PREL35/repo) |
 | `THR1002` From Ticket to PR: Field Lessons from an Autonomous Code Agent | [Session Repo](https://aka.ms/ignite26/THR1002/repo) |

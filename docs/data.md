@@ -42,6 +42,10 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
+| `LAB690` Ship AI apps fast with Rayfin, a managed backend as a service | [Session Repo](https://aka.ms/ignite26/LAB690/repo) |
 | `LAB691` Build an AI-ready data foundation with Microsoft OneLake | [Session Repo](https://aka.ms/ignite26/LAB691/repo) |
+| `LAB692` Build a grounded AI agent with Azure HorizonDB | [Session Repo](https://aka.ms/ignite26/LAB692/repo) |
+| `LAB693` Building search for AI apps and agents with Azure SQL Database | [Session Repo](https://aka.ms/ignite26/LAB693/repo) |
 | `PREL40` Build data-rich apps in Microsoft Fabric | [Session Repo](https://aka.ms/ignite26/PREL40/repo) |
 | `PREL41` Unify operational and real-time data estates with Microsoft Fabric | [Session Repo](https://aka.ms/ignite26/PREL41/repo) |
+| `THR985` Enterprise Data & AI with Snowflake and Databricks on Azure | [Session Repo](https://aka.ms/ignite26/THR985/repo) |

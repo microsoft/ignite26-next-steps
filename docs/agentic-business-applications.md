@@ -22,4 +22,7 @@ Curated resources for Dynamics, Power Platform, Copilot Studio, and business pro
 
 Go deep with repos for Labs and other sessions.
 
-_No public session repositories available yet._
+| Session | Repository |
+| --- | --- |
+| `LAB700` Accelerate Salesforce Migration with Dynamics 365 Activate | [Session Repo](https://aka.ms/ignite26/LAB700/repo) |
+| `LAB701` Simplify SAP ECC Migration with Dynamics 365 Activate | [Session Repo](https://aka.ms/ignite26/LAB701/repo) |
