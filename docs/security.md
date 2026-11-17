@@ -39,4 +39,6 @@ Curated security resources from Ignite 2026 across identity, defense, SIEM/XDR, 
 
 Go deep with repos for Labs and other sessions.
 
-_No public session repositories available yet._
+| Session | Repository |
+| --- | --- |
+| `PREL39` Ready, Secure, Govern Microsoft Copilot Chat & Cowork Workshop | [ignite26-PREL39](https://github.com/microsoft/ignite26-PREL39) |

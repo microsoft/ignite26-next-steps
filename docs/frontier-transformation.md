@@ -26,4 +26,7 @@ Curated transformation resources for adoption, governance, readiness, and measur
 
 Go deep with repos for Labs and other sessions.
 
-_No public session repositories available yet._
+| Session | Repository |
+| --- | --- |
+| `LAB731` Frontier transformation: A Leadership Workshop | [ignite26-LAB731](https://github.com/microsoft/ignite26-LAB731) |
+| `PREL43` From AI Curiosity to Practical Capability | [ignite26-PREL43](https://github.com/microsoft/ignite26-PREL43) |

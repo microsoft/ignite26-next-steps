@@ -48,4 +48,7 @@ Curated links from Ignite 2026 sessions for cloud infrastructure, operations, ar
 
 Go deep with repos for Labs and other sessions.
 
-_No public session repositories available yet._
+| Session | Repository |
+| --- | --- |
+| `PREL37` Platform engineering on AKS: A paved road to AI apps | [ignite26-PREL37](https://github.com/microsoft/ignite26-PREL37) |
+| `PREL38` Plan, modernize, deploy, and operate with AI agents | [ignite26-PREL38](https://github.com/microsoft/ignite26-PREL38) |

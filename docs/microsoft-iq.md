@@ -35,4 +35,6 @@ Go deep with repos for Labs and other sessions.
 
 | Session | Repository |
 | --- | --- |
+| `LAB670` Build your first Microsoft IQ playbook | [ignite26-LAB670](https://github.com/microsoft/ignite26-LAB670) |
 | `LAB672` Ground agents in your business with an ontology in Fabric IQ | [ignite26-LAB672](https://github.com/microsoft/ignite26-LAB672) |
+| `PREL42` Build with Microsoft IQ: A hands-on workshop for context-aware AI | [ignite26-PREL42](https://github.com/microsoft/ignite26-PREL42) |

@@ -27,3 +27,5 @@ Go deep with repos for Labs and other sessions.
 | Session | Repository |
 | --- | --- |
 | `LAB665` See how far one agent goes in Copilot Studio | [ignite26-LAB665](https://github.com/microsoft/ignite26-LAB665) |
+| `LAB666` Host apps from anywhere with the new Copilot Managed Runtime | [ignite26-LAB666](https://github.com/microsoft/ignite26-LAB666) |
+| `PREL35` Building a path to production for agents | [ignite26-PREL35](https://github.com/microsoft/ignite26-PREL35) |

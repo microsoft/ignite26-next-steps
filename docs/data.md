@@ -43,3 +43,5 @@ Go deep with repos for Labs and other sessions.
 | Session | Repository |
 | --- | --- |
 | `LAB691` Build an AI-ready data foundation with Microsoft OneLake | [ignite26-LAB691](https://github.com/microsoft/ignite26-LAB691) |
+| `PREL40` Build data-rich apps in Microsoft Fabric | [ignite26-PREL40](https://github.com/microsoft/ignite26-PREL40) |
+| `PREL41` Unify operational and real-time data estates with Microsoft Fabric | [ignite26-PREL41](https://github.com/microsoft/ignite26-PREL41) |
