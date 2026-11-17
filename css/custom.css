@@ -1,0 +1,142 @@
+/* Microsoft Ignite 2026 VisID — Custom Theme */
+
+/* ── Typography ── */
+/* Segoe UI for body, Cascadia Code for code/monospace */
+:root {
+  --md-text-font: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --md-code-font: "Cascadia Code", "Cascadia Mono", "Consolas", "Courier New", monospace;
+}
+
+body {
+  font-family: var(--md-text-font);
+}
+
+code, pre, kbd, .highlight {
+  font-family: var(--md-code-font);
+}
+
+h1, h2 {
+  font-weight: 800;
+}
+
+h3, h4, h5 {
+  font-weight: 600;
+}
+
+/* ── Ignite 2026 Color Palette ── */
+/* Primary: Black #000000, Accent: Blue #01a5ef */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #000000;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #01a5ef;
+  --md-typeset-a-color: #01a5ef;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #000000;
+  --md-accent-fg-color: #01a5ef;
+  --md-typeset-a-color: #01a5ef;
+}
+
+/* ── Tables ── */
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+  table-layout: auto;
+}
+
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+  vertical-align: top;
+  white-space: normal;
+}
+
+/* Compact table variant */
+.md-typeset table.compact {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.md-typeset table.compact td,
+.md-typeset table.compact th {
+  vertical-align: top;
+  padding: 0.4em 0.6em;
+  font-size: 0.8rem;
+}
+
+.md-typeset table.compact td:first-child,
+.md-typeset table.compact th:first-child {
+  width: 10%;
+}
+
+.md-typeset table.compact td:nth-child(2),
+.md-typeset table.compact th:nth-child(2) {
+  width: 12%;
+}
+
+.md-typeset table.compact td:last-child,
+.md-typeset table.compact th:last-child {
+  width: 78%;
+}
+
+/* ── General ── */
+img {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* ── Light/Dark mode image switching ── */
+[data-md-color-scheme="default"] img.only-dark,
+[data-md-color-scheme="slate"] img.only-light {
+  display: none;
+}
+
+/* ── Tables ── */
+.md-typeset__scrollwrap {
+  overflow-x: visible;
+}
+
+.md-typeset__table {
+  display: block;
+  max-width: 100%;
+}
+
+.md-typeset table:not([class]),
+.md-typeset table.compact {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  max-width: 100%;
+}
+
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th,
+.md-typeset table.compact td,
+.md-typeset table.compact th {
+  white-space: normal;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  vertical-align: top;
+  padding: 0.6em 1em;
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+/* 3-column compact table: 12% / 18% / 70% */
+.md-typeset table.compact th:nth-child(1),
+.md-typeset table.compact td:nth-child(1) {
+  width: 12%;
+}
+.md-typeset table.compact th:nth-child(2),
+.md-typeset table.compact td:nth-child(2) {
+  width: 18%;
+}
+.md-typeset table.compact th:nth-child(3),
+.md-typeset table.compact td:nth-child(3) {
+  width: 70%;
+}
+
+/* 5-column tables keep auto layout */
+.md-typeset table:not([class]) {
+  table-layout: auto;
+}
