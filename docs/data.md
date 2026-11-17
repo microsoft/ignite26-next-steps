@@ -7,22 +7,22 @@ Curated data and analytics links across Fabric, databases, search, and engineeri
 ## Resource Links by Subtopic
 
 ### Analytics and business intelligence
-- [Microso ft Fabric documentation](https://learn.microsoft.com/en-us/fabric/)
+- [Microsoft Fabric documentation](https://learn.microsoft.com/en-us/fabric/)
 - [Fabric administration documentation](https://learn.microsoft.com/en-us/fabric/admin/)
 - [Power BI documentation](https://learn.microsoft.com/en-us/power-bi/)
 - [Azure Data Explorer documentation](https://learn.microsoft.com/en-us/azure/data-explorer/)
 
 ### Azure databases and SQL Server
 - [Get started with database architecture design](https://learn.microsoft.com/en-us/azure/architecture/databases/database-get-started)
-- [Azur e Cosmos DB documentation](https://learn.microsoft.com/en-us/azure/cosmos-db/)
-- [Azu re Database for PostgreSQL documentation](https://learn.microsoft.com/en-us/azure/postgresql/)
-- [Azur e SQL documentation](https://learn.microsoft.com/en-us/azure/azure-sql/)
+- [Azure Cosmos DB documentation](https://learn.microsoft.com/en-us/azure/cosmos-db/)
+- [Azure Database for PostgreSQL documentation](https://learn.microsoft.com/en-us/azure/postgresql/)
+- [Azure SQL documentation](https://learn.microsoft.com/en-us/azure/azure-sql/)
 - [Azure Database for MySQL documentation](https://learn.microsoft.com/en-us/azure/mysql/)
 - [Azure Managed Redis documentation](https://learn.microsoft.com/en-us/azure/redis/)
 - [SQL Server documentation](https://learn.microsoft.com/en-us/sql/sql-server/)
 
 ### AI search and knowledge retrieval
-- [Azur e AI Search documentation](https://learn.microsoft.com/en-us/azure/search/)
+- [Azure AI Search documentation](https://learn.microsoft.com/en-us/azure/search/)
 - [Agentic Retrieval Overview](https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-overview)
 - [What is Foundry IQ?](https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/what-is-foundry-iq)
 

@@ -7,7 +7,7 @@ Curated links across Microsoft IQ, Web IQ, Fabric IQ, Foundry IQ, and Work IQ.
 ## Resource Links by Subtopic
 
 ### Microsoft IQ overview
-- [Micro soft IQ documentation](https://learn.microsoft.com/en-us/microsoft-iq/)
+- [Microsoft IQ documentation](https://learn.microsoft.com/en-us/microsoft-iq/)
 
 ### Web IQ
 - [Microsoft Web IQ overview](https://learn.microsoft.com/en-us/web-iq/overview)

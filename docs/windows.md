@@ -8,13 +8,13 @@ Curated Windows resources for Cloud PCs, deployment, Windows Server, and local A
 
 ### Cloud PCs and virtual desktops
 - [Azure Virtual Desktop documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/)
-- [Window s 365 documentation](https://learn.microsoft.com/en-us/windows-365/)
+- [Windows 365 documentation](https://learn.microsoft.com/en-us/windows-365/)
 - [Deliver Cloud-Hosted Desktops Using Azure Virtual Desktop and Windows 365](https://learn.microsoft.com/en-us/training/paths/deliver-cloud-hosted-desktops/)
 
 ### Windows client and Windows Server
 - [Windows deployment documentation](https://learn.microsoft.com/en-us/windows/deployment/)
 - [Windows Server get started documentation](https://learn.microsoft.com/en-us/windows-server/get-started/)
-- [Windo ws Server documentation](https://learn.microsoft.com/en-us/windows-server/)
+- [Windows Server documentation](https://learn.microsoft.com/en-us/windows-server/)
 - [Windows and Microsoft 365 deployment lab kit](https://learn.microsoft.com/en-us/microsoft-365/enterprise/modern-desktop-deployment-and-management-lab?view=o365-worldwide)
 - [Start using Windows Autopatch](https://learn.microsoft.com/en-us/windows/deployment/windows-autopatch/prepare/windows-autopatch-start-using-autopatch)
 

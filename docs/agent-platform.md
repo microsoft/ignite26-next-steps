@@ -12,7 +12,7 @@ Curated links for building, deploying, and governing agent platforms and integra
 - [Microsoft Agent 365 SDK and CLI](https://learn.microsoft.com/en-us/microsoft-agent-365/developer/)
 
 ### Microsoft Foundry
-- [Micro soft Foundry documentation](https://learn.microsoft.com/en-us/azure/foundry/)
+- [Microsoft Foundry documentation](https://learn.microsoft.com/en-us/azure/foundry/)
 - [What is Microsoft Foundry Agent Service?](https://learn.microsoft.com/en-us/azure/foundry/agents/overview)
 
 ## Skilling Playlists

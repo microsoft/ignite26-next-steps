@@ -12,7 +12,7 @@ Curated resources for Dynamics, Power Platform, Copilot Studio, and business pro
 - [Set up and configure the Account reconciliation agent (production ready preview)](https://learn.microsoft.com/en-us/dynamics365/finance/general-ledger/configure-acct-recon-agent)
 
 ### Power Automate
-- [Pow er Automate documentation](https://learn.microsoft.com/en-us/power-automate/)
+- [Power Automate documentation](https://learn.microsoft.com/en-us/power-automate/)
 - [PL-7002 Create and manage automated processes by using Power Automate](https://github.com/MicrosoftLearning/PL-7002-Create-and-Manage-Automated-Processes-by-using-Power-Automate)
 
 ### Microsoft Power Platform

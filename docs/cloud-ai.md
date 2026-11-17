@@ -17,7 +17,7 @@ Curated links from Ignite 2026 sessions for cloud infrastructure, operations, ar
 - [Azure Kubernetes Service documentation](https://learn.microsoft.com/en-us/azure/aks/)
 
 ### Networking and storage
-- [Az ure networking documentation](https://learn.microsoft.com/en-us/azure/networking/)
+- [Azure networking documentation](https://learn.microsoft.com/en-us/azure/networking/)
 - [Azure Data Lake Storage introduction](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
 
 ### Architecture and reliability
@@ -31,7 +31,7 @@ Curated links from Ignite 2026 sessions for cloud infrastructure, operations, ar
 ### Operations and Management
 - [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
 - [Azure Policy documentation](https://learn.microsoft.com/en-us/azure/governance/policy/)
-- [Azu re Backup documentation](https://learn.microsoft.com/en-us/azure/backup/)
+- [Azure Backup documentation](https://learn.microsoft.com/en-us/azure/backup/)
 - [Azure Cost Management documentation](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/)
 
 ### Infrastructure as code

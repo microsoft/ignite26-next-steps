@@ -13,12 +13,12 @@ Curated security resources from Ignite 2026 across identity, defense, SIEM/XDR, 
 - [Securing workload identities with Microsoft Entra ID Protection](https://learn.microsoft.com/en-us/entra/id-protection/concept-workload-identity-risk)
 
 ### Threat protection and response (Microsoft Defender)
-- [Micr osoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/)
+- [Microsoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/)
 - [Integrate Microsoft Defender for Endpoint with other Microsoft solutions](https://learn.microsoft.com/en-us/defender-endpoint/threat-protection-integration)
 - [Enable Defender for Endpoint integration in Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/enable-defender-for-endpoint)
 
 ### Security operations and integrated SIEM/XDR
-- [Mic rosoft Sentinel documentation](https://learn.microsoft.com/en-us/azure/sentinel/)
+- [Microsoft Sentinel documentation](https://learn.microsoft.com/en-us/azure/sentinel/)
 - [Incident Response with XDR and Integrated SIEM](https://learn.microsoft.com/en-us/security/zero-trust/siem-xdr-overview)
 - [Microsoft Defender XDR integration with Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/microsoft-365-defender-sentinel-integration)
 
